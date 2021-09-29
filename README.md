@@ -380,7 +380,7 @@ Do some change to the source code and verify that the pipeline starts.
 
 You can also use CodeReadyWorkspaces for that (change this URL with the one for your CodeReady Workspaces):
 
-[![Contribute](https://raw.githubusercontent.com/blues-man/cloud-native-workshop/demo/factory-contribute.svg)](https://codeready-openshift-workspaces.apps.cluster-6ef7.6ef7.sandbox74.opentlc.com/factory?url=https://github.com/blues-man/pipelines-vote-ui&policies.create=peruser)
+[![Contribute](https://raw.githubusercontent.com/blues-man/cloud-native-workshop/demo/factory-contribute.svg)](https://codeready-openshift-workspaces.apps.cluster-6ef7.6ef7.sandbox74.opentlc.com/factory?url=https://github.com/red-wine-software/pipelines-vote-ui&policies.create=peruser)
 
 
 ![Vote UI Pipeline start](images/pipeline-vote-ui-start.png)
