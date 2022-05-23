@@ -25,8 +25,8 @@ We use three git repos.
 #### App source repos
 
 Vote App source repos (Frontend + Backend):
-* [Vote App UI](https://github.com/blues-man/pipelines-vote-ui)
-* [Vote App API](https://github.com/blues-man/pipelines-vote-api)
+* [Vote App UI](https://github.com/red-wine-software/pipelines-vote-ui)
+* [Vote App API](https://github.com/red-wine-software/pipelines-vote-api)
 
 #### GitOps repo
 
