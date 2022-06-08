@@ -6,6 +6,6 @@ images:
 - digest: sha256:97bdce4f1eb05a65b29247a0e1ffa09d7711ad60c01867c49d5f8a4edfe12807
   name: quay.io/red-wine-software/vote-api
   newName: quay.io/red-wine-software/vote-api
-- digest: sha256:d36e64eaacc9fce1520f8f9aa524b7759db01e3450ede21b28ce068d96a97a40
+- digest: sha256:5cfab3f39c5794ab5acb6001bdccd926e017ffeada463571f0bcbaf870a68401
   name: quay.io/red-wine-software/vote-ui
   newName: quay.io/red-wine-software/vote-ui
