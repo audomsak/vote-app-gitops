@@ -10,7 +10,7 @@ spec:
   project: default 
   source: 
     path: environments/dev
-    repoURL: https://github.com/red-wine-software/vote-app-gitops
+    repoURL: https://github.com/audomsak/vote-app-gitops
     targetRevision: develop
   syncPolicy: 
     automated:
