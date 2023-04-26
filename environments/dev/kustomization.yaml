@@ -6,7 +6,7 @@ images:
 - digest: sha256:4de13445e1b965d9489744dafd357cccf7be07f773f4e132f498bc9f7e8ed989
   name: quay.io/asuksunt/vote-api
   newName: quay.io/asuksunt/vote-api
-- digest: sha256:ba301a8ad6ebf46d2dba917226611210a3dde25a3eab72467158269d4e196738
+- digest: sha256:c766b9aa69c63599fe9f58e5ccc043014df287bb3f9bd45f9a26c488f1d97f39
   name: quay.io/asuksunt/vote-ui
   newName: quay.io/asuksunt/vote-ui
 - digest: sha256:97bdce4f1eb05a65b29247a0e1ffa09d7711ad60c01867c49d5f8a4edfe12807
