@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   annotations:
-    app.openshift.io/vcs-uri: 'https://github.com/asuksunt/pipelines-vote-api.git'
+    app.openshift.io/vcs-uri: 'https://github.com/audomsak/pipelines-vote-api.git'
     app.openshift.io/vcs-ref: 'master'
   labels:
     app: vote-api
