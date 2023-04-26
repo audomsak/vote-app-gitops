@@ -24,7 +24,7 @@ spec:
         app: vote-api
     spec:
       containers:
-      - image: quay.io/red-wine-software/vote-api:latest
+      - image: quay.io/asuksunt/vote-api:latest
         imagePullPolicy: Always
         name: vote-api
         ports:
